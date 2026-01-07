@@ -15,10 +15,6 @@ The services communicate primarily through HTTP (Gateway ↔ Auth) and RabbitMQ 
 
 <img width="1920" height="1080" alt="image1" src="https://github.com/user-attachments/assets/675f56ce-b4a3-4469-a008-dcde1f067b6b" />
 
-If the image above does not render (e.g., on GitHub before you add the file), you can view the diagram here:
-https://private-user-images.githubusercontent.com/59206895/316431686-692713bc-b445-4e46-8b18-831cc3ac504d.png
-
-To use your local diagram, place the image file at: assets/architecture.png
 
 
 
