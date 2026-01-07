@@ -1,0 +1,6 @@
+# Ignore virtual environments for each microservice
+/.venv/
+/auth/.venv/
+/gateway/.venv/
+/ml_services/.venv/
+/notification_service/.venv/

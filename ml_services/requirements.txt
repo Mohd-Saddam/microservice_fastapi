@@ -1,0 +1,6 @@
+pika
+pillow
+tensorflow==2.15.0
+pandas
+python-dotenv
+keras-ocr
