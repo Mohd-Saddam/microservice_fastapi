@@ -64,8 +64,8 @@ RabbitMQ management UI will be available at http://localhost:15672 (default cred
 
 3) Clone the repository
 
-  git clone https://github.com/shantanu1905/fastapi-microservice-demo.git
-  cd fastapi-microservice-demo
+  git clone https://github.com/Mohd-Saddam/microservice_fastapi.git
+  cd microservice_fastapi
 
 This README assumes the project root is the microservice_project folder.
 
